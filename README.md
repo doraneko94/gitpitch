@@ -1,2 +1,0 @@
-# gitpitch
-for gitpitch
